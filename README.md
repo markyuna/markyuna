@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 
 <!---
-markyuna/markyuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Marcos Suarez cubain, 34 ans, bilingue français espagnol, diplômé d’un Bac+2 Maintenicien Informatique de systèmes et réseaux. 
+Avant responsable caisse chez Massimo Dutti et aujourd'hui, j'ai décidé de suivre une formation de Développeur Web par l'intermédiaire
+du centre de formatin Le Wagon. J'ai toujours souhaité être Web Developpeur et j'aimerais même pouvoir allier ce métier avec mon autre
+passion que c'est la sculpture d'objets en papier mache.
 --->
