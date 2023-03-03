@@ -7,6 +7,6 @@
 <!---
 Marcos Suarez cubain, 34 ans, bilingue français espagnol, diplômé d’un Bac+2 Maintenicien Informatique de systèmes et réseaux. 
 Avant responsable caisse chez Massimo Dutti et aujourd'hui, j'ai décidé de suivre une formation de Développeur Web par l'intermédiaire
-du centre de formatin Le Wagon. J'ai toujours souhaité être Web Developpeur et j'aimerais même pouvoir allier ce métier avec mon autre
+du centre de formation Le Wagon. J'ai toujours souhaité être Web Developpeur et j'aimerais même pouvoir allier ce métier avec mon autre
 passion que c'est la sculpture d'objets en papier mache.
 --->
