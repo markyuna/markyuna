@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Marcos
 
-A passionate frontend developer from Paris
-
-Marcos Suarez cubain, 35 ans, bilingue français espagnol, diplômé d’un Bac+2 Maintenicien Informatique de systèmes et réseaux.
-Avant responsable caisse chez Massimo Dutti et aujourd'hui, j'ai décidé de suivre une formation de Développeur Web par l'intermédiaire du centre de formation Le Wagon. J'ai toujours souhaité être Web Developpeur et j'aimerais même pouvoir allier ce métier avec mon autre
-passion que c'est la sculpture d'objets en papier mache.
 
 - 👀 I’m interested in ...
 - 🌱 I'am currently learning web development at LEWAGON
