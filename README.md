@@ -1,13 +1,9 @@
 
-
-- 👀 I’m interested in ...
-- 🌱 I'am currently learning web development at LEWAGON
-- 💞️ I'am looking for a job as a web developer at the end of my training in March 2023
-- 📫 How do I join? .. it's easy 👀.. 0662482491
-
-
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 <h3 align="center">Marcos Suarez cubain, 35 ans, bilingue français espagnol, diplômé d’un Bac+2 Maintenicien Informatique de systèmes et réseaux. Avant responsable caisse chez Massimo Dutti. J'ai toujours souhaité être Web Developpeur et aujourd'hui, j'ai décidé de suivre une formation par l'intermédiaire du centre de formation Le Wagon.</h3>
+
+- 💞️ I'am looking for a job as a web developer 
+- 📫 How do I join? .. it's easy 👀.. 0662482491
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markyuna" alt="markyuna" /></a> </p>
 
