@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Marcos</h1>
-<h3 align="center">Hi, I am Marcos Suarez. I am an aspiring full stack developer. Current front-end developer from Cuba living in Paris. I spend my time on personal projects and learning more about HTML, CSS and JavaScript. I am interested in working full time in remote work as well. If you have an idea for a website or want to upgrade your current website contact me and we can discuss your options..</h3>
+<h3 align="center">Hi, I am Marcos Suarez. I am an aspiring full stack developer. Current front-end developer from Cuba living in Paris. I spend my time on personal projects and learning more about HTML, CSS and JavaScript. I am interested in working full time in remote work as well. </h3>
 
 - 💞️ I'am looking for a job as a web developer 
 - 📫 How do I join? .. it's easy 👀.. 0662482491
