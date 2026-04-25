@@ -43,7 +43,7 @@ I create modern web applications that combine:
       <h3>💼 France Courtier</h3>
       <p>Premium business website for a financial brokerage, focused on trust and lead generation.</p>
       <p><strong>Stack:</strong> Next.js · Supabase · Google API · Vercel</p>
-      <a href="https://francecourtier.fr">Live Website →</a>
+      <a href="https://francecourtier-site.vercel.app">Live Website →</a>
     </td>
     <td width="33%">
       <h3>🤖 Quizmify</h3>
