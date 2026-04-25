@@ -1,35 +1,103 @@
-<h1 align="center">Hi 👋, I'm Marcos</h1>
-<h3 align="center">Web Developer Junior | Aspiring Full Stack Developer | Front-End Developer from Cuba based in Paris</h3>
+<h1 align="center">Marcos Suarez</h1>
 
-- 💼 I'm actively looking for a web developer position
-- 📧 Contact me: [marcossuarezr88@gmail.com]
-- 📱 Reach me easily: +33 6 62 48 24 91
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markyuna" alt="markyuna" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marcos-suarez22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-suarez22" height="30" width="40" /></a>
-<a href="https://instagram.com/marcospapermache" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="makpapermache" height="30" width="40" /></a>
+<p align="center">
+  <strong>Fullstack Developer</strong> focused on premium web experiences, AI integrations and conversion-driven products.
 </p>
 
-<h3 align="left">Skills and Technologies:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Amplify" width="40" height="40"/>
+<p align="center">
+  <a href="https://www.marcospapermache.com">Website</a> ·
+  <a href="mailto:marcossuarezr88@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/marcos-suarez22">LinkedIn</a> ·
+  <a href="https://instagram.com/marcospapermache">Instagram</a>
 </p>
 
-<h3 align="left">Projects:</h3>
-<ul>
-  <li>📱 Developed mobile applications using React Native and Expo</li>
-  <li>🌐 Created dynamic web applications with React and GraphQL</li>
-  <li>⚙️ Utilized AWS Amplify for backend services and API integration</li>
-</ul>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,supabase,postgres,prisma,vercel,figma" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=markyuna&show_icons=true&locale=en&layout=compact" alt="markyuna" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markyuna&show_icons=true&locale=en" alt="markyuna" /></p>
+## ✨ I build premium digital products
+
+I create modern web applications that combine:
+
+- elegant UI/UX
+- AI-powered workflows
+- fullstack architecture
+- business-focused user journeys
+- responsive and conversion-driven interfaces
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>🎨 Marcos Papermache</h3>
+      <p>AI-powered creative platform to generate and order custom paper-mâché sculptures.</p>
+      <p><strong>Stack:</strong> Next.js · Supabase · OpenAI · Tailwind</p>
+      <a href="https://www.marcospapermache.com">Live Website →</a>
+    </td>
+    <td width="33%">
+      <h3>💼 France Courtier</h3>
+      <p>Premium business website for a financial brokerage, focused on trust and lead generation.</p>
+      <p><strong>Stack:</strong> Next.js · Supabase · Google API · Vercel</p>
+      <a href="https://francecourtier.fr">Live Website →</a>
+    </td>
+    <td width="33%">
+      <h3>🤖 Quizmify</h3>
+      <p>AI-powered quiz generator with persistent storage, dashboard and performance tracking.</p>
+      <p><strong>Stack:</strong> Next.js · OpenAI · Supabase · TypeScript</p>
+      <a href="https://quizmify-two.vercel.app/">Live Demo →</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧠 What I can help with
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌐 Premium Websites</h3>
+      <p>Elegant, responsive and conversion-focused websites for brands, creators and businesses.</p>
+    </td>
+    <td width="50%">
+      <h3>🤖 AI Integrations</h3>
+      <p>AI-powered features such as generators, assistants, workflows and automation tools.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚙️ Fullstack Apps</h3>
+      <p>Dashboards, authentication, databases, uploads, admin panels and API integrations.</p>
+    </td>
+    <td width="50%">
+      <h3>🎨 UX/UI Upgrade</h3>
+      <p>Refactoring existing websites into more premium, modern and professional experiences.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=markyuna&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markyuna&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 📩 Let’s build something premium
+
+I’m available for freelance projects and collaborations.
+
+<p align="center">
+  <a href="mailto:marcossuarezr88@gmail.com">
+    <strong>Contact me →</strong>
+  </a>
+</p>
