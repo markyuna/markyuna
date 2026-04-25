@@ -57,9 +57,15 @@ I create modern web applications that combine:
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/markyuna/marcospapermache-studio/master/public/screenshots/mockup.png" width="260"/>
-  <img src="https://raw.githubusercontent.com/markyuna/quizmify/main/public/screenshots/mockup.png" width="260"/>
-  <img src="https://raw.githubusercontent.com/markyuna/francecourtier-site/main/public/screenshots/mockup.png" width="260"/>
+  <a href="https://www.marcospapermache.com">
+    <img src="https://raw.githubusercontent.com/markyuna/marcospapermache-studio/master/public/screenshots/mockup.png" width="260"/>
+  </a>
+  <a href="https://quizmify-two.vercel.app/">
+    <img src="https://raw.githubusercontent.com/markyuna/quizmify/main/public/screenshots/mockup.png" width="260"/>
+  </a>
+  <a href="https://francecourtier-site.vercel.app/">
+    <img src="https://raw.githubusercontent.com/markyuna/francecourtier-site/main/public/screenshots/mockup.png" width="260"/>
+  </a>
 </p>
 
 ## 🧠 What I can help with
